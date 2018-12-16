@@ -7,7 +7,9 @@ int main(){
     while(t--){
         string str, nst;
         cin>>str;
-        int c=1; // last wale ki tarah hai sab bs isme c= 1 se start kiya hai kyuki element ek baar to atleast hoga he ..we are not searching here..we are comparing
+        int c=1; // last wale ki tarah hai sab bs isme c= 1 se start kiya hai
+        // kyuki element ek baar to atleast hoga he 
+        //..we are not searching here..we are comparing
         int l= str.length();
         for(int i=0;i<l;i++){
             if(str[i]==str[i+1]){
