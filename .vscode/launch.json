@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - maxmin",
+            "request": "launch",
+            "mainClass": "maxmin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - negation",
+            "request": "launch",
+            "mainClass": "negation"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - hackerrank",
             "request": "launch",
             "cwd": "${workspaceFolder}",
