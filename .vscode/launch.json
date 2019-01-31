@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - minproduct",
+            "request": "launch",
+            "mainClass": "minproduct"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - maxminsum",
+            "request": "launch",
+            "mainClass": "maxminsum"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - maxmin",
             "request": "launch",
             "mainClass": "maxmin"
