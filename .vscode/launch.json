@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - split",
+            "request": "launch",
+            "mainClass": "split"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - twotwo",
+            "request": "launch",
+            "mainClass": "twotwo"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - minproduct",
             "request": "launch",
             "mainClass": "minproduct"
