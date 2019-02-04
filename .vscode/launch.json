@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - stack",
+            "request": "launch",
+            "mainClass": "stack"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - split",
             "request": "launch",
             "mainClass": "split"
