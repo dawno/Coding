@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - lcs",
+            "request": "launch",
+            "mainClass": "lcs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - knapsack",
+            "request": "launch",
+            "mainClass": "knapsack"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - stack",
             "request": "launch",
             "mainClass": "stack"
