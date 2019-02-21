@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Minjump",
+            "request": "launch",
+            "mainClass": "Minjump"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lis",
+            "request": "launch",
+            "mainClass": "Lis"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - subset",
             "request": "launch",
             "mainClass": "subset"
