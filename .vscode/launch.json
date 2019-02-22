@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Longestsubsequence",
+            "request": "launch",
+            "mainClass": "Longestsubsequence"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Infosys",
             "request": "launch",
             "mainClass": "Infosys"
