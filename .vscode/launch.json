@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Infosys",
+            "request": "launch",
+            "mainClass": "Infosys"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - coin",
+            "request": "launch",
+            "mainClass": "coin"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Minjump",
             "request": "launch",
             "mainClass": "Minjump"
