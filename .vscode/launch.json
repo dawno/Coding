@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - near",
+            "request": "launch",
+            "mainClass": "near"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sms",
+            "request": "launch",
+            "mainClass": "sms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - minsub",
             "request": "launch",
             "mainClass": "minsub"
