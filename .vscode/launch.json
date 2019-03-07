@@ -2,6 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - rotation",
+            "request": "launch",
+            "mainClass": "rotation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - minop",
+            "request": "launch",
+            "mainClass": "minop"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - subs",
+            "request": "launch",
+            "mainClass": "subs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - substring",
+            "request": "launch",
+            "mainClass": "substring"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - near",
             "request": "launch",
             "mainClass": "near"
