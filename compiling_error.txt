@@ -1,4 +1,0 @@
-/Users/utkarshsingh/Desktop/Coding/Kruskal.cpp:26:19: error: expected expression
-                edges.push_back({w, {u, v}});
-                                ^
-1 error generated.

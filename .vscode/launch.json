@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - training",
+            "request": "launch",
+            "mainClass": "training"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - rotation",
             "request": "launch",
             "mainClass": "rotation"
